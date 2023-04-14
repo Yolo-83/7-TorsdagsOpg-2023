@@ -5,24 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c1a01ea6-d0f3-4142-bb51-c7c6e746669c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7._TorsdagsOpg.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Opgaverne" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task1/TV.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task2/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task3/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task3/Apple.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task3/Chicken.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task3/Edible.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task3/Fruit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task3/Orange.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task3/Tiger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
