@@ -6,10 +6,10 @@ public class Main {
         // Try / Catch exceptions
         try {
             Circle c = new Circle(2);
-            System.out.println(c.area()); // Output: 12.56
+            System.out.println(c.area());
             c.setRadius(3);
-            System.out.println(c.area()); // Output: 28.26
-            c.setRadius(-1); // Throws Exception: Radius must be non-negative
+            System.out.println(c.area());
+            c.setRadius(-1); // Throws Exception: The Radius must not be negative
         } catch (Exception e) {
             System.out.println(e.getMessage());
         }
